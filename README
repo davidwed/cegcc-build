@@ -1,3 +1,10 @@
+Forked from http://git.xcsoar.org/cgit/max/cegcc-build.git/ 
+
+- Part of the https://xcsoar.org/ project ( WinCE )
+- http://max.kellermann.name/projects/cegcc/
+
+===================================================================
+
 This is meta-repository to build entire CeGCC toolchain.
 
 Clone this repository using:
